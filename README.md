@@ -1,2 +1,2 @@
 # graphql-java-extended-default-value
-Default value library for graphql-java input
+This library provides extended default value of fields and field arguments for graphql-java
